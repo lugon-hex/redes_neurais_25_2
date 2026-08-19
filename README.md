@@ -1,8 +1,6 @@
 # Análise de Redes Neurais 
 Trabalho sobre Tópicos em IA 3 - 2025.2
 
-# documentation 
-
 # Double Pendulum: AI Project (PINN & LSTM)
 
 ## Overview
