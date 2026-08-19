@@ -36,8 +36,3 @@ The project utilizes LSTMs to capture long-range temporal dependencies inherent 
 2.  **Chaos Control:** In the double pendulum, PINN constraints significantly improved long-term prediction stability.
 3.  **Hyperparameter Sensitivity:** Performance is highly sensitive to architecture. The default configuration (256 Batch Size, 200 Epochs, 128 hidden units, 2 layers) provides the optimal balance between computational feasibility and accuracy.
 
-## Directory Structure
-*   `data/`: Scripts for data generation (RK4 for simple, Euler for double).
-*   `models/`: Implementation of LSTM architectures and PINN loss classes.
-*   `notebooks/`: Training scripts, hyperparameter tuning, and evaluation.
-*   `results/`: Plots comparing trajectories and loss evolution for PINN vs. standard LSTM.
