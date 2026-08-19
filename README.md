@@ -1,7 +1,7 @@
 # Análise de Redes Neurais 
 Trabalho sobre Tópicos em IA 3 - 2025.2
 
-# Double Pendulum: AI Project (PINN & LSTM)
+# Double Pendulum: Neural Networks Project (PINN & LSTM)
 
 ## Overview
 This project evaluates the performance of Long Short-Term Memory (LSTM) recurrent neural networks—both in standard configurations and augmented with Physics-Informed Neural Network (PINN) losses—for forecasting the dynamics of simple and double pendulum systems. This work explores how physical constraints impact model stability in systems ranging from predictable nonlinear oscillators to complex chaotic systems.
