@@ -52,4 +52,4 @@ A sketch of the ceation of the data:
         ◦ save all steps (time, xs,ys) in a list
     • generate data with a loop of different parameter values, init conditions,  physical conditions and gaussian error.
 
-Here I the paper  is a discribtion of the methode: https://pmc.ncbi.nlm.nih.gov/articles/PMC9215218/?utm_source
+Here is a paper which describes the method: https://pmc.ncbi.nlm.nih.gov/articles/PMC9215218/?utm_source
